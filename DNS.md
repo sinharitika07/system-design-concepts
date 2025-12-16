@@ -1,0 +1,1 @@
+DNS is a hierarchical and distributed naming system that translates domain names into IP addresses. When you type a domain name like "www.geeksforgeeks.org" into your browser, DNS ensures that the request reaches the correct server by resolving the domain to its corresponding IP address.
