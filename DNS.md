@@ -18,7 +18,9 @@ Root DNS Server: The resolver sends the request to a root DNS server. The root s
 <img width="926" height="442" alt="image" src="https://github.com/user-attachments/assets/b185dd88-1160-45b5-92b2-c7e238f13fa7" />
 
 TLD Server: The TLD server for .org directs the resolver to the authoritative DNS server for geeksforgeeks.org.
+
 Authoritative DNS Server: This server holds the actual DNS records for geeksforgeeks.org, including the IP address of the website’s server. It sends this IP address back to the resolver.
+
 Final Response: The DNS resolver sends the IP address to your computer, allowing it to connect to the website’s server and load the page.
 
 
